@@ -1,0 +1,6 @@
+/* TodoList.css */
+.todo-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
